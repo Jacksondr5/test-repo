@@ -1,0 +1,1 @@
+This repo serves as a minimum reproduction of a [bug](). out-2.txt is a file created with a normal, untransformed commit. out-4.txt is a file created with a normal commit and then was transformed with git-filter-repo.
